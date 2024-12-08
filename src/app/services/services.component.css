@@ -1,0 +1,24 @@
+.services-page .card {
+  margin-bottom: 30px;
+  max-height: 400px;
+}
+
+.services-page .card-img-top {
+  
+  max-height: 200px;
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+
+.services-page .card-body {
+  text-align: center;
+}
+
+.services-page .card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.services-page .card-text {
+  font-size: 1rem;
+  color: #555;
+}

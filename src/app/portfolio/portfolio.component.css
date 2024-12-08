@@ -1,0 +1,18 @@
+.portfolio-page .card {
+    margin-bottom: 30px;
+  }
+  
+  .portfolio-page .card-body {
+    text-align: center;
+  }
+  
+  .portfolio-page .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .portfolio-page .card-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
